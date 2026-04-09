@@ -50,7 +50,7 @@
 | `hps-dev-kits` | Hps Admin的 UI 开发工具包。     |
 
 
-### 🛠️ Hub Dev（内部工具，不对外）
+### 🛠️ Hub Dev（内部工具，不对外）✅
 
 
 | Package      | 说明         |
@@ -60,7 +60,7 @@
 
 ## 二、Business Capabilities（业务能力层）
 
-### 🛒 Hub Store（前台与订单上下文）
+### 🛒 Hub Store（前台与订单上下文）✅
 
 
 | Package                             | 说明             |
@@ -137,7 +137,7 @@
 | `hps-plugin-showcase`    | 对外展示当前生产项目与落地案例。 |
 
 
-### 📣 Hub Growth（营销与增长）
+### 📣 Hub Growth（营销与增长）✅
 
 
 | Package                      | 说明                                             |
@@ -164,14 +164,16 @@
 ### 🎫 Hub Support（客户支持）✅
 
 
-| Package                     | 说明                                |
-| --------------------------- | --------------------------------- |
-| `hps-plugin-ticket`         | 工单系统能力。                           |
-| `hps-plugin-assisted-order` | 辅助用户进行代下单能力。                      |
-| `hps-plugin-risk-control`   | 记录失信客户，识别并跟踪潜在发货配送风险、退款风险与恶意退单用户。 |
+| Package                     | 说明                                        |
+| --------------------------- | ----------------------------------------- |
+| `hps-plugin-ticket`         | 工单系统能力。                                   |
+| `hps-plugin-assisted-order` | 辅助用户进行代下单能力。                              |
+| `hps-plugin-risk-control`   | 记录失信客户，识别并跟踪潜在发货配送风险、退款风险与恶意退单用户。         |
+| `hps-plugin-meta-pilot`     | 用 AI 做产品的 SEO, 自动同步关键的 meta, keyword,等信息. |
+| `hps-plugin-catalog-replay` | 同步商品信息“中继转发”到目标站点通过 API KEY 授权.           |
 
 
-### 🕶️ Hub Glass（行业/垂直场景）
+### 🕶️ Hub Glass（行业/垂直场景）✅
 
 
 | Package                  | 说明          |
