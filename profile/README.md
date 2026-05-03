@@ -169,8 +169,7 @@
 | `hps-plugin-ticket`         | ✅ 工单系统能力。                                   |
 | `hps-plugin-assisted-order` | ✅ 辅助用户进行代下单能力。                              |
 | `hps-plugin-risk-control`   | ✅ 记录失信客户，识别并跟踪潜在发货配送风险、退款风险与恶意退单用户。         |
-| `hps-plugin-meta-pilot`     | 用 AI 做产品的 SEO, 自动同步关键的 meta, keyword,等信息. |
-| `hps-plugin-catalog-replay` | 同步商品信息“中继转发”到目标站点通过 API KEY 授权.           |
+| `hps-plugin-data-pipeline`  | ✅ 数据作业、数据处理中心、运营数据任务（营销定时也说得通）           |
 
 
 ### 🕶️ Hub Glass（行业/垂直场景）✅
