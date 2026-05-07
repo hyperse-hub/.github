@@ -102,8 +102,7 @@
 | Package                               | 说明                                |
 | ------------------------------------- | --------------------------------- |
 | `hps-plugin-shipping-tiered-pricing`  | ✅ C 端分层/阶梯式运费定价与配送方式选择能力。           |
-| `hps-plugin-shipping-carrier-adapter` | B 端物流公司对接适配能力，统一承运商接口并支持多渠道扩展接入。  |
-| `hps-plugin-shipping-tracking`        | ✅ 物流运单追踪与状态回传能力，支持轨迹同步、签收状态更新与异常预警。 |
+| `hps-plugin-shipping-carrier` | ✅ 物流运单追踪与状态回传能力，支持轨迹同步、签收状态更新与异常预警、自定义fulfillment、创建物流单等。  |
 
 
 ### 🏭 Hub ERP（供应链与ERP）
