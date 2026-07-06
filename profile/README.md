@@ -38,6 +38,7 @@
 | `hps-plugin-data-aggregation`   | ✅ 可扩展数据聚合容器能力，并按需进行缓存编排与性能优化, 如果首页 banner, new Arrivals, best seller, review 等数据集缓存。 |
 | `hps-plugin-email`              | ✅ 基础邮件发送与模板通知能力，供各业务插件接入复用。                                                          |
 | `hps-plugin-token-active-order` | ✅ 客户端订单服务器端流程执行的基础机制，支持通过 token 参数调用订单相关服务端逻辑。                                       |
+| `hps-plugin-limit-rate`         | Shop API 固定窗口限速执行层，支持分层/API 产品配额、黑白名单、用量统计与违规告警。                                          |
 
 
 ### 🏛️ Hub Base（基础免费库，对外开放）✅
@@ -70,7 +71,8 @@
 | `hps-plugin-review`                 | ✅ 商品评价/评论能力。     |
 | `hps-plugin-stock-monitor`          | ✅ 库存监控与补货提醒能力。   |
 | `hps-plugin-public-customer-groups` | ✅ 公共客户分组能力。      |
-| `hps-plugin-digital-product`        | ✅ 虚拟数字商品展示与销售能力。 |
+| `hps-plugin-digital-product`        | ✅ 虚拟数字商品展示与销售能力。                                      |
+| `hps-plugin-feature-entitlements`   | ✅ 虚拟商品权益内核：功能目录、订阅计划、客户授权、试用与配额元数据投影。 |
 
 
 ### 🔐 Hub Auth（认证与身份）✅
