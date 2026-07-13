@@ -148,6 +148,8 @@
 | `hps-plugin-email-marketing` | ✅ 营销邮件模板管理与批量发送能力。                               |
 | `hps-plugin-points-shop`     | 积分兑换商城，支持积分兑换、购买、兑换券与特殊商品购买。                   |
 | `hps-plugin-reward-referral` | ✅ 邀请与推荐奖励能力。                                     |
+| `hps-plugin-affiliate`       | ✅ 联盟推广计划能力，支持订单归因、Facet 分佣、推广员等级、冻结结算与提现。 |
+| `hps-plugin-membership`      | ✅ 专属奖励会员等级体系，按年度消费判定 tier、保级降级与积分倍率加成。     |
 | `hps-plugin-ugc`             | 用户创作内容能力，支持活动市场、任务领取、奖励获取与内容审核。                |
 | `hps-plugin-feed`            | ✅ 生成标准商品 Feed 内容，用于 Facebook/Meta 与 Google 广告投放。 |
 | `hps-plugin-sitemap`         | ✅ 生成标准 Sitemap/索引内容，支持广告与搜索平台内容抓取。               |
