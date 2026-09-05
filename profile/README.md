@@ -37,6 +37,7 @@
 | `hps-plugin-storage`            | ✅ 文件与对象存储集成能力。                                                                       |
 | `hps-plugin-data-aggregation`   | ✅ 可扩展数据聚合容器能力，并按需进行缓存编排与性能优化, 如果首页 banner, new Arrivals, best seller, review 等数据集缓存。 |
 | `hps-plugin-email`              | ✅ 基础邮件发送与模板通知能力，供各业务插件接入复用。                                                          |
+| `hps-plugin-notification`       | ✅ 运维/系统通知引擎（与 Email 并列），事件 Handler → Intent → 多通道派发；首期飞书（一 App 多群）+ Admin 配置。        |
 | `hps-plugin-token-active-order` | ✅ 客户端订单服务器端流程执行的基础机制，支持通过 token 参数调用订单相关服务端逻辑。                                       |
 | `hps-plugin-limit-rate`         | Shop API 固定窗口限速执行层，支持分层/API 产品配额、黑白名单、用量统计与违规告警。                                     |
 
@@ -105,6 +106,7 @@
 | ------------------------------------ | --------------------------------------------------------- |
 | `hps-plugin-shipping-tiered-pricing` | ✅ C 端分层/阶梯式运费定价与配送方式选择能力。                                 |
 | `hps-plugin-shipping-carrier`        | ✅ 物流运单追踪与状态回传能力，支持轨迹同步、签收状态更新与异常预警、自定义fulfillment、创建物流单等。 |
+| `hps-plugin-shipping-inspect`        | ✅ 履约运单定时轨迹巡检，检测轨迹停滞与超期未妥投，经 EventBus 发布告警并可接入通知引擎。        |
 
 
 ### 🏭 Hub ERP（供应链与ERP）
